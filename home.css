@@ -3,7 +3,7 @@
   padding:0;
 }
 #img{
-  background-image: url("poll.jpeg");
+  background-image: url("nature2.jpeg");
   background-repeat: repeat;
   background-size: cover;
   width:100%;
@@ -41,3 +41,7 @@
 #video {
   text-align: center;
 }
+@media screen and (max width: 576px){
+  #video{
+    width: 350px;
+  }}
