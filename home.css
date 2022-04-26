@@ -25,9 +25,9 @@
 
 .footer{
   margin-top: 10px;
-  padding-top: 50px;
+  padding-top: 10px;
   padding-bottom: 10px;
-  background-color: grey;
+  
 }
 #features{
   text-align: center;
@@ -40,4 +40,23 @@
 
 #video {
   text-align: center;
+}
+
+
+
+
+.ch {
+  padding-top:50px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+#footer { 
+  text-align: center;
+  margin-top: 80px;
+  
+}
+
+#footer .li{
+  padding: 10px;
 }
