@@ -7,8 +7,12 @@
   background-repeat: repeat;
   background-size: cover;
   width:100%;
+<<<<<<< HEAD
   height: 600px;
   
+=======
+  height: 800px;
+>>>>>>> 1660556f852a713ee7a3312b92f8ca06d2def48f
 }
 
 .img h1{
